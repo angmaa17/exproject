@@ -1,2 +1,2 @@
-# Exproject
+# exproject
 Dies ist eine Beispiel Webseite.
